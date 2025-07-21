@@ -13,8 +13,24 @@ Introduction. Getting to know your background to fine tune course materials.
 
 - Brief description of CPU, RAM, Hard-disk and more... 
 
-- What is programming
+- What is programming?
 
 - Bits, Bytes, and other representations
 
+- Operators and operand
+
+- Fundamentals of Python
+
+  - Why it became so famous? 
+
+  - 
+ 
 + Week 3 (Week of July 28)
+
+- Datatypes
+
+- Data Structures
+
+- Conditions
+
+- Loops

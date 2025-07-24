@@ -1,6 +1,9 @@
 # BEC-513: Computer Programming
 Computer Programming course for Structural and Computational Biology Program. 
 
+Here is the breakdown of 100 marks.
+
+
 This course aims to train you for intermediate level Python, R, and Bash programming and scripting. In this process, you will be exposed to linux operating system also, a cornerstone for research work. Weekly topics covered in the course are as follows:
 
 ## Week 1 (Week of July 14). 
@@ -19,13 +22,14 @@ Introduction. Getting to know your background to fine tune course materials.
 
 - Operators and operand
 
-- Fundamentals of Python
++ Fundamentals of Python
 
   - Why it became so famous? 
 
-  - 
+  - Interpretor vs Compiler
+
  
-+ Week 3 (Week of July 28)
+## Week 3 (Week of July 28)
 
 - Datatypes
 
@@ -34,3 +38,13 @@ Introduction. Getting to know your background to fine tune course materials.
 - Conditions
 
 - Loops
+
+## Week 4 (Week of August 4)
+
+- Reading and writing files
+
+- Function
+
+- Class and Object Oriented Programming (OOP)
+
+

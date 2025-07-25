@@ -1,8 +1,7 @@
 # BEC-513: Computer Programming
 Computer Programming course for Structural and Computational Biology Program. 
 
-Here is the breakdown of 100 marks.
-
+**Office Hours:** Wed 12-1 PM. 
 
 This course aims to train you for intermediate level Python, R, and Bash programming and scripting. In this process, you will be exposed to linux operating system also, a cornerstone for research work. Weekly topics covered in the course are as follows:
 

@@ -1,9 +1,23 @@
 # BEC-513: Computer Programming
 Computer Programming course for Structural and Computational Biology Program. 
 
-**Office Hours:** Wed 12-1 PM. 
+**Office Hours:** Mon 5-6 PM. 
+
+## Marks Distribution
+
+- **Quiz 1**, 5 marks: August 20, 2026 (tentative date)
+
+- **Midterm**, 20 marks
+
+- **Surprise Quiz 2**, 5 marks
+
+- **Projects**, 40 marks. About 5 projects will be there for you complete. It would require understanding from the class.
+
+- **ETE**, 30 marks. Complete syllabus (from the beginning of the class)
+
 
 This course aims to train you for intermediate level Python, R, Bash programming and scripting. In this process, you will be exposed to linux operating system, a cornerstone for research work. Weekly topics covered in the course are as follows:
+
 
 ## Week 1
 
@@ -36,8 +50,6 @@ Introduction. Getting to know your background to fine tune course materials.
 
 - Brief description of CPU, RAM, Hard-disk and more... 
 
-
-
 - What is programming?
 
 - Bits, Bytes, and other representations
@@ -69,5 +81,16 @@ Introduction. Getting to know your background to fine tune course materials.
 - Function
 
 - Class and Object Oriented Programming (OOP)
+
+
+## Rough thoughts
+
++ Hitchhiking
+
+- Simple problems like get away with your things
+
+   - Processing files using pipes
+   
+   - Integrating a series of codes without creating new file
 
 
